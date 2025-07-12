@@ -4,6 +4,7 @@ import reactLogo from './assets/react.svg'
 // import './App.css'
 import Header from './section/Header'
 import Hero from './section/Hero'
+import Features from './section/Features'
 
 function App() {
  
@@ -12,6 +13,7 @@ function App() {
     <main className=' overflow-hidden'>
       <Header/>
       <Hero/>
+      <Features/>
     
     </main>
   )
