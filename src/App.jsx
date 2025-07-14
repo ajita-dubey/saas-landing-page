@@ -5,6 +5,7 @@ import reactLogo from './assets/react.svg'
 import Header from './section/Header'
 import Hero from './section/Hero'
 import Features from './section/Features'
+import Pricing from './section/Pricing'
 
 function App() {
  
@@ -14,6 +15,7 @@ function App() {
       <Header/>
       <Hero/>
       <Features/>
+      <Pricing/>
     
     </main>
   )
