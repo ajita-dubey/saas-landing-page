@@ -118,6 +118,7 @@ const Pricing = () => {
                           <Button icon={plan.icon}>
                             Get Started
                           </Button>
+                          
                          </div>
                          {index === 1 && (
                           <p className="small-compact mt-9 text-center text-p3 before:mx-2.5

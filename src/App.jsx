@@ -6,6 +6,7 @@ import Header from './section/Header'
 import Hero from './section/Hero'
 import Features from './section/Features'
 import Pricing from './section/Pricing'
+import Faq from './section/Faq'
 
 function App() {
  
@@ -16,6 +17,7 @@ function App() {
       <Hero/>
       <Features/>
       <Pricing/>
+      <Faq/>
     
     </main>
   )
