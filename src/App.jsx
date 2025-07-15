@@ -9,6 +9,7 @@ import Pricing from './section/Pricing'
 import Faq from './section/Faq'
 import Testimonials from './section/Testimonials'
 import Download from './section/Download'
+import Footer from './section/Footer'
 
 function App() {
  
@@ -22,6 +23,7 @@ function App() {
       <Faq/>
       <Testimonials/>
       <Download/>
+      <Footer/>
     
     </main>
   )
